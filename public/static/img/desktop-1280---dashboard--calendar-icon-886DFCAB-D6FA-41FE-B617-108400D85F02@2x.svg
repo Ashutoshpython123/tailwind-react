@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="39px" viewBox="0 0 40 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Calendar icon</title>
+    <g id="Trainez" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Calendar-icon">
+            <rect id="Hover-bg" fill="#FFFFFF" opacity="0" x="0" y="0" width="39.0482622" height="39" rx="5"></rect>
+            <g id="icon" transform="translate(7.509281, 7.500000)" stroke="#D8D8D8" stroke-linecap="round" stroke-linejoin="round">
+                <g id="Group-14" transform="translate(0.545911, 0.546766)">
+                    <path d="M3.12449112,22.1840035 L20.1713471,22.1840035 C21.8955061,22.1840035 23.2936502,20.7875874 23.2936502,19.0633741 L23.2936502,4.80638112 C23.2936502,3.08435315 21.8955061,1.68575175 20.1713471,1.68575175 L3.12449112,1.68575175 C1.40033216,1.68575175 4.61740257e-13,3.08435315 4.61740257e-13,4.80638112 L4.61740257e-13,19.0633741 C4.61740257e-13,20.7875874 1.40033216,22.1840035 3.12449112,22.1840035 Z" id="Stroke-1"></path>
+                    <line x1="0.000656405698" y1="8.03715035" x2="23.2943066" y2="8.03715035" id="Stroke-3"></line>
+                    <line x1="18.3541973" y1="1.14566476e-12" x2="18.3541973" y2="3.37194056" id="Stroke-5"></line>
+                    <line x1="4.9418597" y1="1.14566476e-12" x2="4.9418597" y2="3.37194056" id="Stroke-7"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
